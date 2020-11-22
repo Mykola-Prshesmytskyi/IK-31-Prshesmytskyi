@@ -3,9 +3,3 @@ Lab1 add image
 1 Склонував репозиторій команда $ git clone https://github.com/Mykola-Prshesmytskyi/IK-31-Prshesmytskyi.git
 2 Закомітив файл до репозиторію
 3 хеш -e2665b22f9acb973ee7f15dac8e1a6688ea106ec команда $ git log
-
-
-
-5 Перейшов в гілку main:
-$ git checkout main
-В гілці main не відображаються зміни тому що це головна гілка репозиторію, а інша гілка є "копією"
