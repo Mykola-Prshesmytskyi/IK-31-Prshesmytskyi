@@ -19,9 +19,9 @@
 ##  9. Завантажив імеджі до Docker Hub репозиторію
 ##  10. Переходжу до Docker-compose, перевірив чи встановлений "Docker-compose" та запустив його за допомогою команди "docker-compose -p lab5 up"
 ##  11. Веб-сайт працює, адреса для переходу на сайт - http:/0.0.0.0/ Скрішоти сторінок сайту:
-![Image alt](https://github.com/Mykola-Prshesmytskyi/IK-31-Prshesmytskyi/tree/main/lab5/screenshot_1.jpg)
-![Image alt](https://github.com/Mykola-Prshesmytskyi/IK-31-Prshesmytskyi/tree/main/lab5/screenshot_2.jpg)
-![Image alt](https://github.com/Mykola-Prshesmytskyi/IK-31-Prshesmytskyi/tree/main/lab5/screenshot_3.jpg)
+![image alt](https://github.com/Mykola-Prshesmytskyi/IK-31-Prshesmytskyi/blob/main/lab5/screenshot_1.jpg?raw=true)
+![image alt](https://github.com/Mykola-Prshesmytskyi/IK-31-Prshesmytskyi/blob/main/lab5/screenshot_1.jpg?raw=true)
+![image alt](https://github.com/Mykola-Prshesmytskyi/IK-31-Prshesmytskyi/blob/main/lab5/screenshot_1.jpg?raw=true)
 ##  12. Компоуз створив докер імеджі, тег для цих імеджів "compose".
 ##  13. Запушив імеджі до Docker Hub.
 ##  14. На мою думку "docker-compose" кращий по декільком причинам: він легший у використанні, технологія є новішою, а також він розроблявся саме для docker-а.
